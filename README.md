@@ -2,7 +2,7 @@
 
 It is a simple and funny tic-tac-toe game app created with React.js. 
 
-![alt text](https://github.com/nusrat35/react-covid19tracker/blob/main/public/covid19Title.PNG "Title image")
+![homepage image](https://github.com/nusrat35/react-tic-tac-toe/blob/main/public/title.PNG "Title image")
 
 ## Live URL
 I deployed it in my github pages. You can visit [here](https://nusrat35.github.io/react-tic-tac-toe/)
